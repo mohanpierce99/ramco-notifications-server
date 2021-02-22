@@ -1,8 +1,8 @@
 ## Notifications component - server repo
 
 ### Full Demo and walkthrough of the project in video in 12 mins : Watch it here : 
-Part1 - https://www.loom.com/share/485c8e6678c0476f91bb3f3c77087de5
-Part2 - https://www.loom.com/share/ba8cc79891464acb99704eaa6f3a8779
+https://www.loom.com/share/485c8e6678c0476f91bb3f3c77087de5
+https://www.loom.com/share/ba8cc79891464acb99704eaa6f3a8779
 
 
 To run the project :
