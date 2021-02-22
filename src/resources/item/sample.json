@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Burger",
+    "value": 150
+  },
+  {
+    "id": 2,
+    "name": "French fries",
+    "value": 100
+  },
+  {
+    "id": 3,
+    "name": "Sandwich",
+    "value": 120
+  },
+  {
+    "id": 4,
+    "name": "Chocolate lava",
+    "value": 80
+  },
+  {
+    "id": 5,
+    "name": "Brownie ice-cream",
+    "value": 180
+  }
+]
